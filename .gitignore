@@ -2,6 +2,9 @@
 .tmp/
 lsky_done.json
 
+# 真实凭证（config.json.example 提供模板）
+config.json
+
 # Python
 __pycache__/
 *.pyc
